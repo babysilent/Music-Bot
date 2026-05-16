@@ -1,4 +1,4 @@
-# 🎵 Discord Music Bot - Senior Python Edition
+# 🎵 Discord Music Bot 
 
 Un bot Discord de musique haute performance, modulaire et moderne, conçu avec `discord.py` et `yt-dlp`.
 
@@ -72,4 +72,4 @@ docker run --env-file .env music-bot
 - **Spotify ne fonctionne pas** : Vérifiez vos identifiants API sur le dashboard Spotify Developer.
 
 ---
-Développé avec ❤️ par un Senior Python Dev.
+Développé avec ❤️ par Baby Silent.
