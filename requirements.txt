@@ -1,0 +1,12 @@
+discord.py
+yt-dlp
+spotipy
+python-dotenv
+aiohttp
+asyncio
+pylast
+lyricsgenius
+# For audio processing
+PyNaCl
+# Optional: for advanced logging/debugging
+rich
