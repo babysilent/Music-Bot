@@ -22,7 +22,7 @@ Un bot Discord de musique haute performance, modulaire et moderne, conçu avec `
 ### Installation Locale
 1. Clonez le dépôt :
    ```bash
-   git clone <url-du-repo>
+   git clone (https://github.com/babysilent/Music-Bot)
    cd "Music Bot"
    ```
 
